@@ -1,9 +1,16 @@
-<!DOCTYPE html>
- <html>
- <body>
+nes (14 sloc)  1.05 KB
 
-  <h1>My First Heading</h1>
-  <p>My first paragraph.</p>
+<!DOCTYPE html>
+<html>
+<body>
+	<h1> Personal Information </h1>
+	<p>My name is Dominic and I'm a 21 year old male living in Canberra. </p>
+	<p> I'm currently working overnight at macas and I'm looking for something better. My only real interests are gaming and watching some shows/anime. Im generally one to keep to myself and not talk much, i try to reach out for help if i feel i have no options left but i'm stubborn enough that when i do reach out for help it's generally too late </p>
+	<h2> Interest in IT </h2>
+	<p> My interest in IT stems from my interest in video games, it's the only thing i am really interested in so I might as well try to make something out of it. Its alot to consume and i've been having trouble do to my work schedule but i hope to keep pushing forward </p>
+	<h3> My Ideal Job </h3>
+	<p> I haven’t got much in the way of my ideal job per say, if it pays me well and it doesnt drain me so much as to make me want to die every day then i’d like to say i'd fit into the job fairly well </p>
+	<h4> Personality Profile </h4>
 
 </body>
 </html>
