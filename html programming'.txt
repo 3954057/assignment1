@@ -10,6 +10,6 @@
 	<h3> My Ideal Job </h3>
 	<p> I haven’t got much in the way of my ideal job per say, if it pays me well and it doesnt drain me so much as to make me want to die every day then i’d like to say i'd fit into the job fairly well </p>
 	<h4> Personality Profile </h4>
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+  <p> new paragraph here </p>
 </body>
 </html>
